@@ -1,6 +1,6 @@
 # 📖 The Dev Book
 
-The Dev Book is a fully responsive book showcase website built using **Bootstrap**. It features a modern design, a navigation sidebar, and a carousel for an engaging user experience.
+The Dev Book is a fully responsive book showcase website built using **Bootstrap**. It features a modern design, a navigation sidebar, and a Accordion for an engaging user experience.
 
 ## 🚀 Features
 
